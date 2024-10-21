@@ -3,7 +3,7 @@ title: Enlace externo
 layout: home
 nav_order: 7
 nav_external_links:
-  - title: Enlace externo
+    title: Enlace externo
     url: https://www.edu.xunta.gal/centros/iesmurallaromana/aulavirtual/my/
     hide_icon: false
     opens_in_new_tab: false
